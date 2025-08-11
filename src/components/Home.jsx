@@ -1,6 +1,6 @@
 import React from 'react'
 import Sidebar from './Sidebar.jsx';
-import Prompt from './prompt.jsx';
+import Prompt from './Prompt.jsx';
 
 function Home() {
   return (
